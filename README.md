@@ -1,18 +1,18 @@
-# 🔍 FindIt Campus – Smart Lost and Found System
+#  FindIt Campus – Smart Lost and Found System
 
-## 📌 Overview
+##  Overview
 
 FindIt Campus is a smart, web-based Lost and Found System designed to help college students report, search, and recover lost belongings efficiently. It provides a centralized platform to report lost and found items, upload images to cloud storage, and identify potential matches using a smart matching algorithm.
 
-## ❗ Problem Statement
+##  Problem Statement
 
 Students frequently lose personal belongings such as ID cards, books, wallets, keys, and electronic devices on campus. Finding these items is difficult because there is no centralized platform to report, track, and match lost and found items efficiently.
 
-## 💡 Solution
+##  Solution
 
 FindIt Campus provides a centralized digital platform where students can report lost or found items, upload images, search and filter reports, and identify potential matches. The system aims to simplify item recovery and improve communication between students.
 
-## ✨ Features
+##  Features
 
 - 📝 Report lost items.
 - 📦 Report found items.
@@ -23,7 +23,7 @@ FindIt Campus provides a centralized digital platform where students can report 
 - 📊 Admin dashboard for managing reports.
 - ✅ Track item recovery and report status.
 
-## 🛠️ Technology Stack
+##  Technology Stack
 
 - **Frontend:** Streamlit
 - **Backend:** Python
@@ -33,7 +33,7 @@ FindIt Campus provides a centralized digital platform where students can report 
 - **Matching Algorithm:** Python
 - **Version Control:** Git and GitHub
 
-## 🏗️ System Architecture
+##  System Architecture
 
 The system follows a layered architecture:
 
